@@ -68,7 +68,7 @@ CMakeLists.txt.user*
 *.json*
 
 *.pro.user*
-
+*.AppImage*
 # Python byte code
 *.pyc
 # Binaries
