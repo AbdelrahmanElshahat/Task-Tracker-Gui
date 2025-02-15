@@ -9,7 +9,6 @@ Task-Tracker GUI is a lightweight and intuitive task management application buil
 
 - **User-Friendly Interface:** A clean, modern UI for easy task management.
 - **Task Operations:** Quickly add, modify, and delete tasks.
-- **Priority & Status Indicators:** Assign priorities and monitor task progress at a glance.
 - **Category Organization:** Organize tasks into custom categories to suit your workflow.
 - **Optimized for Linux:** Efficient performance tailored for Linux environments.
 
@@ -47,23 +46,23 @@ Follow these steps to build the application from source:
 
 3. **Open the Project:**
 
-   - **Launch Qt Creator.**
-   - **Open the project by selecting the .pro file located in the repository root.**
+   - *Launch Qt Creator.*
+   - *Open the project by selecting the .pro file located in the repository root.*
 4. **Build the Project:**
 
-   - **Select the build configuration (e.g., Debug or Release).**
-   - **Click the build button to compile the application.** 
+   - *Select the build configuration (e.g., Debug or Release).*
+   - *Click the build button to compile the application.* 
 5. **Run the Application:**
 
-    - **Once the build is complete, run the application directly from Qt Creator or execute the generated binary.**
+    - *Once the build is complete, run the application directly from Qt Creator or execute the generated binary.*
 
 ## Usage
 
 After launching Task-Tracker GUI, you can:
 
-- **Add a Task: Use the interface to enter a new task, set its priority, and assign it to a category.**
-- **Edit/Delete a Task: Click on any existing task to modify or remove it.**
-- **Monitor Progress: Use visual indicators to track your tasks’ statuses and priorities.**
+- *Add a Task: Use the interface to enter a new task, set its priority, and assign it to a category.*
+- *Edit/Delete a Task: Click on any existing task to modify or remove it.*
+- *Monitor Progress: Use visual indicators to track your tasks’ statuses and priorities.*
 
 ![Task Management](images/finalpreview.png)
 
@@ -71,9 +70,9 @@ After launching Task-Tracker GUI, you can:
 
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please feel free to:
 
-1. **Fork the Repository**
-2. **Create a new branch for your feature or fix.**
-3. **Submit a pull request with a detailed explanation of your changes.**
+1. *Fork the Repository*
+2. *Create a new branch for your feature or fix.*
+3. *Submit a pull request with a detailed explanation of your changes.*
 
 For major changes, please open an issue first to discuss what you would like to change.
 
